@@ -18,7 +18,7 @@ export const site = {
   title: "Asmi | Software Engineer",
   description:
     "Portfolio of Asmi, a software engineer with experience at Apple and TVS Motor Company, working across backend systems, AI/ML, data engineering, and intelligent applications.",
-  profileImage: "/images/asmi-profile.jpg",
+  profileImage: "/images/asmi-profile.png",
   resumePath: "/resume/Asmi_Goyal_Resume.pdf",
 };
 
